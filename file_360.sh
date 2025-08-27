@@ -1,0 +1,4 @@
+// Sample file 360
+// Linux Window Manager Wine Compatibility
+// Contributors: Hemesh Kasukurthy, Rutvij Vinukonda, Taksh Gaikwaid, Vivian Sharmala
+X7sfGBY2ROL5PRvbyCaiv5hwKbZYDMvYhAUymGAgQOLSygEyYBxCgOTC9fo1ednv6MhaspO9IzTD2o7YFMEIjjTKUnOkOMUTWKcwWHwpISaWH2asaaDdCIK89sWZP4nAQsnG0feUnkamrjwv9lp3zGJisyXNFRWuQoQDzbUXP11IaRJWYqJg9f8ppFYIYX96R6bP6J7P

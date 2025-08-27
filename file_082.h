@@ -1,0 +1,4 @@
+// Sample file 82
+// Linux Window Manager Wine Compatibility
+// Contributors: Hemesh Kasukurthy, Rutvij Vinukonda, Taksh Gaikwaid, Vivian Sharmala
+SuILGJ2hmwfBYkHnjeiOoKPadO2DaoecAeNsXQm5rbh2CHIQff82v19Lz5E3Lyr6MiCU7n9V2ZUR8LgdIeg8s3ivc5t3DiLlg6Fjd7jPU5Aua1DbSK0k2D3OoIeQtAH1iMfGAlAGhsl6ZV1RML6PO966aN0mtOw9waHKx3EW2g8s5KjqmnCLdxWfyIUEi8LetS7eoYfX
